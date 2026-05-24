@@ -7,7 +7,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
+visita el proyecto en este link : https://alej2andro.github.io/association-rules-movielens/
 
+---
 ## 📌 Descripción
 
 Este proyecto implementa un **sistema de recomendación de películas** basado íntegramente en **reglas de asociación**, comparando tres algoritmos clásicos de minería de patrones frecuentes:
